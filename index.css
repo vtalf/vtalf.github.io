@@ -1,0 +1,85 @@
+body{
+    background: #363636;
+    font-family: 'Lato', sans-serif;
+
+    color: white;
+}
+
+.icon-content{
+    border-radius: 8px;
+    background-color: #e8175d;
+}
+
+#flaTVicon{
+   width: 25%;
+   height: 25%;
+
+   margin-left: 500px;
+   margin-top: 50px;
+}
+
+#imageVidOne{
+    width: 500px;
+    height: 300px;
+
+    margin: none;
+
+    margin-left: 20px;
+}
+
+.vidOne{
+
+    margin-top: 30px;
+    margin-left: 30px;
+
+    background-color: #474747;
+
+    padding: 20px;
+    
+    width: 550px;
+
+    border-radius: 8px;
+
+}
+
+.vidTwo{
+    margin-top: 30px;
+    margin-left: 30px;
+
+    background-color: #474747;
+
+    padding: 20px;
+    
+    width: 550px;
+
+    border-radius: 8px;
+}
+
+.vid-text{
+    margin-left: 15px;
+}
+
+.vid-content{
+    display: flex;
+}
+
+button{
+    width: 260px;
+    height: 56px;
+    margin-top: 40px;
+
+    background-color: #b52218;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+
+    transition: background-color 400ms;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #8c1e16;
+}
